@@ -1,5 +1,4 @@
-# aceyduecey
-Acey Duecey implementation in Python
+# Acey Duecey implementation in Python
 
 
 This is a program that implements [Acey Deucey](https://en.wikipedia.org/wiki/Acey_Deucey_(card_game)). 
