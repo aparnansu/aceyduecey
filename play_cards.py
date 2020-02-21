@@ -1,7 +1,5 @@
-#Unit five - assignment one
-#
 #The playing cards program
-#Author: Aparna.N
+#Author: Aparn
 
 from operator import itemgetter,attrgetter
 import random
